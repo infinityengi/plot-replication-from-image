@@ -8,9 +8,9 @@ This project demonstrates how to digitize and replicate a research plot from an 
 - `notebooks/`: Jupyter notebooks for analysis and plotting.
 
 ## Instructions
-1. Use WebPlotDigitizer to extract data points from the image.
-2. Save data in `digitized_data/`.
-3. Use code in `notebooks/` or `replicate_plot.py` to regenerate the plot.
+1. Use WebPlotDigitizer to extract data points from the image. [Plot Replication Tutorial by Ankit Rohatgi](https://www.youtube.com/watch?v=P7GbGdMvopU&ab_channel=ankitrohatgi)
+3. Save data in `digitized_data/`.
+4. Use code in `notebooks/`.
 
 ## Requirements
 - matplotlib
